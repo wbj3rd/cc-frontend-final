@@ -5842,7 +5842,7 @@
   },
   "servers": [
     {
-      "url": "https://apiv2.quecall.biz"
+      "url": "https://api.quecall.biz"
     }
   ],
   "components": {
